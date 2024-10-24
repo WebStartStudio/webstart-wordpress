@@ -1,0 +1,1892 @@
+:root {
+    --primary-color: #1B575B;
+    --secondary-color: #FF6752;
+    --background: #100027;
+    --white: #fff;
+    --primary2: #525fe1;
+    --secondary-color2: #ffd703;
+}
+
+/*.header-one .menubar ul li a{
+	color: #;
+}*/
+
+.header .sticky-menu .logo a.site-title h4 {
+    color: var(--primary2) !important;
+}
+
+.header .sticky-menu .logo p.site-description {
+    color: #000;
+}
+
+.mobile-menu .close-style:before,
+.mobile-menu .close-style:after {
+    background: var(--background);
+}
+
+.breadcrumb-area {
+    background: var(--primary-color);
+}
+
+.breadcrumb-heading h2 {
+    color: var(--white);
+}
+
+.breadcrumb-heading h2>span,
+.breadcrumb-list li:nth-child(1) a i {
+    color: var(--secondary-color);
+}
+
+.breadcrumb-list li:nth-child(1) a {
+    color: var(--background);
+}
+
+.theme-mobile-nav.sticky-nav {
+    background: var(--primary-color);
+}
+
+.header-two .theme-mobile-nav.sticky-nav,
+.header-three .theme-mobile-nav.sticky-nav {
+    background: var(--primary2);
+}
+
+.shopping-cart {
+    background: var(--white);
+}
+
+.shopping-cart .nt-btn-effect-1 {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.cart-total {
+    color: var(--background);
+}
+
+.cart-header i {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.cart-items .item-name {
+    color: var(--primary2);
+}
+
+.header-one .navigator:not(.sticky-menu) .menubar>ul>li:not(.active)>a {
+    color: #fff;
+}
+
+.navigator.sticky-menu .menubar>ul>li>a {
+    color: #000000;
+}
+
+.dropdown>ul li a {
+    color: var(--background);
+}
+
+.widget-social-widget ul li a:before {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.widget-social-widget ul li a,
+.cart-icon-wrap {
+    background: var(--primary-color);
+}
+
+.header-three .cart-icon-wrap,
+.header-three .user .user-btn {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.header-three .cart-icon-wrap:hover,
+.header-three .user .user-btn:hover,
+.header-three .cart-icon-wrap:focus,
+.header-three .user .user-btn:focus {
+    background: var(--white);
+    color: var(--primary2);
+}
+
+.header-three .cart-icon-wrap span {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+.header-three .search-button .nt-search-form i {
+    color: var(--primary2);
+}
+
+.menubar ul li a:hover,
+.menubar ul li a:focus {
+    color: var(--primary2);
+}
+
+.widget-social-widget ul li a:hover,
+.widget-social-widget ul li a:focus {
+    background: var(--secondary-color);
+}
+
+.cart-icon-wrap:hover,
+.cart-icon-wrap:focus {
+    background: #fff;
+    color: var(--primary-color);
+}
+
+.cart-icon-wrap span {
+    background: var(--secondary-color);
+}
+
+.header-two .cart-icon-wrap span {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+.header-two .cart-icon-wrap:hover span,
+.header-two .cart-icon-wrap:focus span {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.header-one .menubar>ul>li>a:hover,
+.header-one .menubar>ul>li>a:focus,
+.header-one .menubar>ul>li.active>a {
+    color: var(--secondary-color) !important;
+}
+
+.header-two .menubar>ul>li.active>a,
+.header-two .menubar>ul>li>a:hover,
+.header-two .menubar>ul>li>a:focus,
+.header-three .menubar>ul>li>a:hover,
+.header-three .menubar>ul>li>a:focus,
+.header-three .menubar>ul>li.active>a {
+    color: var(--primary2);
+}
+
+.header-two .menubar>ul>li>a,
+.header-three .menubar>ul>li>a {
+    color: var(--background);
+}
+
+.header-one .dropdown-menu {
+    background: var(--secondary-color);
+}
+
+.header-search-normal .search-form .search-submit {
+    color: var(--secondary-color);
+}
+
+.header-one .dropdown>ul li a:hover,
+.header-one .dropdown>ul li a:focus {
+    color: var(--white);
+    background: var(--secondary-color);
+}
+
+/*.header-two .menubar ul li a{color: var(--background);}*/
+
+.header-two .cart-icon-wrap,
+.header-two .header-search-toggle {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.header-two .cart-icon-wrap:hover,
+.header-two .header-search-toggle:hover,
+.header-two .cart-icon-wrap:focus,
+.header-two .header-search-toggle:focus {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+.header-search-popup .search-form .search-submit {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+.header-two .nt-button-area .nt-btn-effect-1 {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.header-two .nt-button-area .nt-btn-effect-1:hover,
+.header-two .nt-button-area .nt-btn-effect-1:focus {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+#header-section .dropdown-menu {
+    background: var(--white);
+}
+
+.header-three .menubar ul li a.active {
+    color: var(--primary2);
+}
+
+.header-three .header-search-normal .search-form .search-submit {
+    color: var(--primary2);
+}
+
+/*slider*/
+
+.slider-home {
+    background: var(--primary-color);
+}
+
+.slider-home .theme-content h1>span {
+    color: var(--secondary-color);
+}
+
+.btn-effect {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.btn-effect:hover,
+.btn-effect:focus {
+    color: var(--background);
+}
+
+.btn-effect:before {
+    background: var(--secondary-color2);
+}
+
+.slider-three {
+    background: var(--white);
+}
+
+.slider-three .theme-content h1 {
+    color: var(--background);
+}
+
+.slider-three .theme-content p {
+    color: #838383;
+}
+
+.btn-effect3 {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.slider-three .theme-content h3 {
+    color: var(--primary2);
+}
+
+.btn-effect3:before {
+    background: var(--secondary-color2);
+}
+
+.btn-effect3:hover,
+.btn-effect3:focus {
+    color: var(--background);
+}
+
+/*section-title*/
+
+.section-title h5 {
+    color: var(--secondary-color);
+}
+
+#category_three .category-name h4 a {
+    color: var(--background);
+}
+
+#category_three .category-name h4 a {
+    color: var(--background);
+}
+
+#category_three .section-title h5,
+#about_three .section-title h5,
+#course3-section .section-title h5,
+#section-video2 .section-title h5,
+#price3 .section-title h5,
+#teams3 .section-title h5,
+.section-testimonial3 .section-title h5,
+#sponsor3 .section-title h5,
+.section-blog3 .section-title h5 {
+    color: var(--primary2);
+}
+
+.section-title h3 {
+    color: var(--background);
+}
+
+.slider-two,
+#about_two {
+    background: linear-gradient(rgba(217, 229, 247, 0.5), rgba(223, 215, 230, 0.5));
+}
+
+.slider-two .theme-content h3,
+.slider-two .theme-content h1 {
+    color: var(--background);
+}
+
+.slider-home button.owl-dot {
+    background: var(--secondary-color);
+}
+
+.slider-three .owl-prev,
+.slider-three .owl-next,
+.slider-two .owl-prev,
+.slider-two .owl-next {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.slider-three .owl-prev:hover,
+.slider-three .owl-next:hover,
+.slider-three .owl-prev:focus,
+.slider-three .owl-next:focus,
+.slider-two .owl-prev:hover,
+.slider-two .owl-next:hover,
+.slider-two .owl-prev:focus,
+.slider-two .owl-next:focus {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+/*section-feature*/
+
+.section-feature .feature-item .feature-icon {
+    color: var(--primary2);
+}
+
+.slider-home button.owl-prev:hover,
+.slider-home button.owl-next:hover,
+.slider-home button.owl-prev:focus,
+.slider-home button.owl-next:focus {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.slider-home button.owl-prev,
+.slider-home button.owl-next {
+    background: var(--white);
+    color: var(--secondary-color);
+}
+
+.section-feature .feature-item .feature-contant h2 {
+    color: var(--background);
+}
+
+.section-feature .feature-item {
+    background: var(--white);
+}
+
+.section-feature .feature-item.feature-active {
+    background: var(--primary2);
+}
+
+.section-feature .feature-item.feature-active .feature-contant h2,
+.section-feature .feature-item.feature-active .feature-contant span {
+    color: var(--white);
+}
+
+.section-feature .feature-item .feature-contant .feature-btn {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+/*categories*/
+
+#category_one,
+#section-course1,
+.section-pricing {
+    background-color: var(--white);
+}
+
+#category_one .categorie-content span {
+    background: #fff0ed;
+    color: var(--secondary-color);
+}
+
+#category_one .categorie-item:hover .categorie-content span {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+/*#category_one .categorie-item:hover .categorie-content span{
+ 	background: var(--white);   
+ 	color: var(--secondary-color);
+}*/
+
+.categorie-item:before {
+    background: var(--primary-color);
+}
+
+.categorie-item:hover {
+    border-color: var(--secondary-color);
+}
+
+#category_one .categorie-item:hover .categorie-content h2 a,
+#category_one .categorie-item:hover .categorie-content p {
+    color: var(--white);
+}
+
+#category_three .category3:hover .category-name h4 a {
+    color: var(--white);
+}
+
+#category_three .category-name:before {
+    background: var(--primary2);
+}
+
+#category_three .category3:hover .cotegory-icon {
+    background: var(--white);
+    color: var(--primary2);
+}
+
+/*explore-courses*/
+
+.explore-courses .course-item .course-contant h3 {
+    color: var(--background);
+}
+
+.explore-courses .course-item .course-contant ul li span i {
+    background: var(--white);
+    color: var(--primary2);
+}
+
+.explore-courses .course-item .course-contant .course-bottom .course-btn {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.explore-courses .course-item .course-contant .course-bottom .course-btn:hover,
+.explore-courses .course-item .course-contant .course-bottom .course-btn:focus {
+    background: var(--secondary-color2);
+    color: var(--background);
+    border-color: var(--secondary-color2);
+}
+
+.explore-courses .course-item .course-contant .course-bottom span i {
+    color: var(--primary2);
+}
+
+.explore-courses .course-item .course-contant:before {
+    background: var(--primary2);
+}
+
+.explore-courses .course-item:hover .course-contant h3 {
+    color: var(--white);
+}
+
+.explore-courses .course-item:hover .course-contant ul li span {
+    color: var(--white);
+}
+
+.explore-courses .course-item:hover .course-contant .course-bottom span {
+    color: var(--white);
+}
+
+.explore-courses .course-item:hover .course-contant .course-bottom span i {
+    color: var(--white);
+}
+
+.nt-tab-filter a.active i,
+.nt-tab-filter a:hover i {
+    color: var(--secondary-color2);
+}
+
+/*about*/
+
+#about_one,
+#about_three {
+    background: #f2f6ff;
+}
+
+.about-content ul li i {
+    background: var(--white);
+    color: var(--secondary-color);
+}
+
+#about_single2 .about-content ul li i {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.about_tag1 i,
+.about_tag3 i {
+    color: var(--secondary-color);
+}
+
+.about_tag2 {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.about_tag3 {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.about2-content ul li i {
+    background: var(--white);
+    color: var(--primary2);
+}
+
+.about-feature .about-icon i,
+.section-about .contact-info .contact-icon i {
+    color: var(--secondary-color);
+}
+
+.about-btn a {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.about-btn a:hover {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.contact-detail a {
+    color: var(--background);
+}
+
+.contact-detail span {
+    color: var(--secondary-color);
+}
+
+.bedge {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.about2-content .paragraph:before {
+    color: var(--primary2);
+}
+
+.about2-btn {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.about2-btn:hover,
+.about2-btn:focus {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+.img-one p span {
+    color: var(--primary2);
+}
+
+#about_three .above-icon {
+    color: var(--primary2);
+}
+
+.about3-content a.btn {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+#about_three .above-tag {
+    background: var(--primary2);
+}
+
+.above-tag>span:nth-child(1) {
+    color: var(--secondary-color2);
+}
+
+.above-tag>span:nth-child(2) {
+    color: var(--white);
+}
+
+#about_team .team2 .team2-img:before {
+    background: rgba(27, 87, 91, 0.5);
+}
+
+#about_team .team2-detail .share-icon {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+#about_team .team2:hover .team2-detail .share-icon {
+    background: var(--primary-color)
+}
+
+#about_team .team2 .widget-social-widget ul li a:hover {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.wrap-right .nt-search-form i {
+    color: var(--secondary-color);
+}
+
+#about_team .team2 .widget-social-widget ul li a {
+    background: var(--white);
+    color: var(--primary-color);
+}
+
+.about_single .contact-icon {
+    color: var(--secondary-color);
+}
+
+#about_single .contact-info .sub-title {
+    color: var(--background);
+}
+
+#our-feature .section-title h3,
+#our-feature .section-title h5 {
+    color: var(--white);
+}
+
+#our-feature {
+    background: var(--secondary-color);
+}
+
+.feature-brands ul li {
+    background: var(--white);
+}
+
+#our-feature .feature-text .btn {
+    background: var(--white);
+    color: var(--secondary-color);
+}
+
+.form-submit #comment-submit {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.process-item .process-icon {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.process-item:hover .process-icon {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.process-item .process-content h4 a {
+    color: var(--background);
+}
+
+.process-item .process-content p {
+    color: #666;
+}
+
+/*faq*/
+
+.card-header button.acc-btn:before {
+    background: var(--white) !important;
+    color: var(--secondary-color);
+}
+
+.adminform-inner button[type='submit'] {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+/*order_review*/
+
+#order_review table {
+    background-color: var(--primary-color);
+}
+
+.cart_item td,
+tfoot tr td {
+    color: var(--white);
+}
+
+.woocommerce-privacy-policy-link {
+    color: var(--secondary-color);
+}
+
+button#place_order {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+/*contact*/
+
+.section-contact .contact-icon:before {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.section-contact .contact-icon:after {
+    background: var(--primary-color);
+}
+
+#submit {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.contact-btm .widget-contact .contact-icon {
+    color: var(--secondary-color);
+}
+
+.contact-area .contact-btn {
+    background: var(--secondary-color) !important;
+    color: var(--white);
+}
+
+/*service*/
+
+.section-service .service-icon {
+    background: var(--secondary-color2);
+    color: var(--white);
+}
+
+.section-service .service-icon:before {
+    background: var(--primary2);
+}
+
+.service-detail p {
+    #666
+}
+
+.service-detail h3 a {
+    color: var(--background);
+}
+
+/*coureses*/
+
+.nt-tab-filter a {
+    color: var(--secondary-color);
+}
+
+.nt-tab-filter a:hover,
+.nt-tab-filter a:focus {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.nt-tab-filter a.active {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.course-caption h6 a:hover {
+    color: var(--secondary-color);
+}
+
+.course-caption .btn-course {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.course-caption .btn-course:hover {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.nt-cart-btn-wrap a {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.nt-cart-btn-wrap a:hover {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.course-caption .meta span {
+    color: var(--secondary-color);
+}
+
+.course-caption .star {
+    color: #f6ab4a;
+}
+
+#course3-section .nt-tab-filter a.active {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+#course3-section .nt-tab-filter a {
+    color: var(--primary2);
+}
+
+#course3-section .nt-tab-filter a:hover,
+#course3-section .nt-tab-filter a:focus {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+#course3-section .course-caption .meta>span {
+    color: var(--background);
+}
+
+#course3-section .course-caption .meta>span i {
+    color: var(--primary2);
+}
+
+#course3-section .course-caption h6 a:hover {
+    color: var(--primary2);
+}
+
+#course3-section .course-tag>span {
+    color: var(--primary2);
+}
+
+/*feature2*/
+
+.feature-contant-side ul li i {
+    color: var(--primary2);
+}
+
+.feature-contant-side ul li {
+    color: #666;
+}
+
+.feature-contant-side a {
+    color: var(--background);
+}
+
+.feature-contant-side a:hover,
+.feature-contant-side a:focus {
+    color: var(--primary2);
+}
+
+/*video*/
+
+#section-video2:before {
+    background: var(--primary2);
+}
+
+.funfact3-section {
+    background: var(--primary2);
+}
+
+/*funfact*/
+
+.funfact-item {
+    background: var(--primary-color);
+}
+
+.section-funfact {
+    background: var(--primary-color);
+}
+
+#funfact-one .section-title h3 {
+    color: var(--white);
+}
+
+.section-funfact .funfact-btn {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.section-funfact .section-title p {
+    color: var(--white);
+}
+
+.funfact-item .funf-icon:before {
+    color: var(--secondary-color);
+    background: var(--secondary-color);
+}
+
+.funf-icon i {
+    color: var(--secondary-color);
+}
+
+.funfact-item .funf-icon:after {
+    background: var(--white);
+}
+
+.funfact-item h1,
+.funfact-item p {
+    color: var(--white);
+}
+
+.count-border {
+    background: var(--secondary-color2);
+}
+
+.section-funfact2 {
+    background: var(--primary2);
+}
+
+.section-funfact2 h4,
+.section-funfact2 p {
+    color: var(--white);
+}
+
+.student-success h6 {
+    color: var(--secondary-color2);
+}
+
+.funfact2 ul li i {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.funfact2 ul li {
+    background: var(--white);
+}
+
+.funfact2 ul li:before {
+    background: var(--secondary-color2);
+}
+
+.funfact-count h4 {
+    color: var(--background);
+}
+
+.funfact-count span {
+    color: #787878;
+}
+
+.funfact2 ul li:hover i {
+    color: var(--secondary-color2);
+}
+
+.funfact3-item .funfact3-icon:before {
+    background: var(--secondary-color2);
+}
+
+.funfact3-item .funfact3-icon:after {
+    background: var(--white);
+}
+
+.funfact3-item .funfact3-icon i {
+    color: var(--primary2);
+}
+
+.funfact3-content h5,
+.funfact3-content span {
+    color: var(--white);
+}
+
+#funfact-about .count-border {
+    background: var(--secondary-color);
+}
+
+/*pricing*/
+
+.section-pricing .pricing-item {
+    background: var(--white);
+}
+
+.pricing-item:hover:before {
+    background: var(--primary-color);
+}
+
+/*.section-pricing .pricing-item:hover{background: var(--primary-color);}*/
+
+.section-pricing .pricing-item .pricing:before {
+    background: var(--secondary-color);
+}
+
+.section-pricing .pricing-item .pricing {
+    color: var(--white);
+}
+
+.section-pricing .pricing-item ul li i {
+    background: var(--background);
+    color: var(--white);
+}
+
+.section-pricing .pricing-item:hover ul li i {
+    background: var(--white);
+    color: var(--primary-color);
+}
+
+.section-pricing .pricing-item ul li {
+    color: var(--background);
+}
+
+.section-pricing .pricing-item:hover ul li {
+    color: var(--white);
+}
+
+.section-pricing .btn-price {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.section-pricing .pricing-item .btn-price:hover {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.section-pricing .pricing-item h2 {
+    color: var(--background);
+}
+
+.section-pricing .pricing-item:hover h2,
+.section-pricing .pricing-item:hover p {
+    color: var(--white);
+}
+
+.pricing2.activebanner {
+    background: var(--primary2);
+}
+
+.price-top h3,
+.price-top p {
+    color: var(--white);
+}
+
+.price-top h3>span {
+    color: var(--secondary-color2);
+}
+
+.price-btn {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+.pricing2 ul li i {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.pricing2 .btn-price {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.pricing2:not(.activebanner):before {
+    background: var(--primary2);
+}
+
+.pricing2 h2,
+.pricing2 .pricing {
+    color: var(--background);
+}
+
+.pricing2:hover h2,
+.pricing2:hover .pricing {
+    color: var(--white);
+}
+
+.pricing2:hover ul li {
+    color: var(--white);
+}
+
+.pricing2 ul li:nth-child(4),
+.pricing2 ul li:nth-child(5),
+.pricing span {
+    color: #d3d3d3;
+}
+
+.pricing2 ul li:nth-child(4) i,
+.pricing2 ul li:nth-child(5) i {
+    background: #d3d3d3;
+}
+
+/*team*/
+
+.team2-detail h5 a {
+    color: var(--background);
+}
+
+#teamone {
+    background: linear-gradient(358deg, #f5f8ff, #fff);
+}
+
+.team-content h3 a {
+    color: var(--background);
+}
+
+.team-img:after {
+    background: var(--primary-color);
+}
+
+.team-img:before {
+    background: var(--secondary-color);
+}
+
+.team-content span {
+    color: var(--secondary-color);
+}
+
+#teamone .widget-social-widget ul li a {
+    background: var(--white);
+    color: var(--secondary-color);
+}
+
+#teamone .widget-social-widget ul li a:hover,
+#teamone .widget-social-widget ul li a:focus {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.team2-detail .share-icon {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+.team2:hover .team2-detail .share-icon,
+.team2:focus .team2-detail .share-icon {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.team2 .team2-img:before {
+    background: rgba(82, 95, 225, 0.5);
+}
+
+.team2 .widget-social-widget ul li a {
+    background: var(--white);
+    color: var(--primary2);
+}
+
+.team2 .widget-social-widget ul li a:hover,
+.team2 .widget-social-widget ul li a:focus {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.team-border {
+    background: var(--primary2);
+}
+
+.team3-content>span {
+    color: var(--primary2);
+}
+
+.team3-content h6 a {
+    color: var(--background);
+}
+
+.team3-bottom i {
+    color: var(--primary2);
+}
+
+.team3-bottom span {
+    color: var(--d9d9d9);
+}
+
+.team3 .widget-social-widget ul li a {
+    background: var(--white);
+    color: var(--primary2);
+}
+
+.team3 .widget-social-widget ul li a:hover {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+/*section-newsletter*/
+
+.section-newsletter {
+    background: var(--primary-color);
+}
+
+.section-newsletter h3 {
+    color: var(--white);
+}
+
+.section-newsletter .nt-mail-form .nt-submit {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+/*testimonial*/
+
+.feedback span {
+    color: var(--white);
+}
+
+.feedback span:before {
+    background: var(--secondary-color);
+}
+
+.feedback span:after {
+    background: var(--primary-color);
+}
+
+.feedback h3 {
+    color: var(--background);
+}
+
+.testimonial-item {
+    background: var(--white);
+}
+
+.star-rating,
+.star-rating a {
+    color: #f6ab4a
+}
+
+.student-name h6 {
+    color: var(--background);
+}
+
+.student-name span {
+    color: var(--secondary-color);
+}
+
+.description {
+    color: #898989;
+}
+
+#firsttestimonial .owl-prev,
+#firsttestimonial .owl-next {
+    background: var(--white);
+    color: var(--secondary-color);
+}
+
+#firsttestimonial .owl-prev:hover,
+#firsttestimonial .owl-next:hover,
+#firsttestimonial .owl-prev:focus,
+#firsttestimonial .owl-next:focus {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.section-testimonial {
+    background: var(--white);
+}
+
+.client-content h5 {
+    color: var(--primary2);
+}
+
+.testimonial3-content .fa-quote-left {
+    color: var(--primary2);
+}
+
+.testimonial3-img img {
+    border-radius: 10px;
+    border: 20px solid #fff;
+}
+
+.client-rating,
+.client-rating a,
+.clients>div span {
+    color: var(--primary2);
+}
+
+/*sponsor*/
+
+.sponsor-text a {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+/*banner*/
+
+.section-banner .banner-item {
+    background: var(--primary-color);
+}
+
+.section-banner .banner-item .banner-content h3 {
+    color: var(--white);
+}
+
+.section-banner .banner-item .banner-content p {
+    color: #fff;
+}
+
+.banner-btn {
+    background: var(--secondary-color);
+    color: var(--white) !important;
+}
+
+.banner2-item {
+    background: var(--primary2);
+}
+
+.banner2-content h4,
+.banner2-content p {
+    color: var(--white);
+}
+
+.banner2-btn {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+.footer2-main {
+    background: #231f40;
+}
+
+/*blog*/
+
+#blogpost1 .post-items {
+    background: var(--white);
+}
+
+#blogpost1 .post-items .post-content .post-meta.up span ul li a {
+    background: #fee1dd;
+    color: var(--secondary-color);
+}
+
+#blogpost1 .post-items .post-content .post-meta.up .author-name a {
+    color: #444;
+}
+
+#blogpost1 .post-items .post-content .post-meta.up .author-name a i {
+    color: var(--secondary-color);
+}
+
+#blogpost1 .post-items .post-content .post-title a {
+    color: var(--background);
+}
+
+#blogpost1 .post-items .post-content .post-title a:hover {
+    color: var(--secondary-color);
+}
+
+#blogpost1 .post-items .post-content .post-meta.down span {
+    color: #666666;
+}
+
+#blogpost1 .post-items .post-content .more-link {
+    color: var(--background);
+}
+
+#blogpost1 .post-items .post-content .more-link:hover {
+    color: var(--secondary-color);
+}
+
+#blogpost1 .post-items .post-hover:before {
+    background: rgba(255, 103, 82, 0.5);
+}
+
+.section-blog2 {
+    background: linear-gradient(rgba(217, 229, 247, 0.5), rgba(223, 215, 230, 0.5));
+}
+
+.section-blog2 .post-items {
+    background: var(--white);
+}
+
+.section-blog2 .post-meta.up .post-categories a:before {
+    background: var(--secondary-color2);
+}
+
+.section-blog2 h5 a {
+    color: var(--background);
+}
+
+.section-blog2 .post-meta.down a i {
+    color: var(--primary2);
+}
+
+.post-meta.down .admin {
+    color: var(--background);
+}
+
+.section-blog2 .more-link {
+    color: var(--background);
+}
+
+.section-blog2 .more-link:hover {
+    color: var(--primary2);
+}
+
+.section-blog2 .post-image .post-hover i:hover {
+    background: var(--primary2);
+}
+
+.post-content .post-meta.up a,
+.post-content .post-meta.up a:hover {
+    color: var(--primary2);
+}
+
+.scetion-footer2 .widget-social-widget ul li a:hover {
+    background: var(--white);
+    color: var(--primary2);
+}
+
+.section-blog3 .post-items .more-link {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.post-items .post-content .post-title a {
+    color: var(--background);
+}
+
+/*sidebar*/
+
+.blog-sidebar .nt-search-submit {
+    background: var(--secondary-color);
+}
+
+.calendar_wrap table caption {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.calendar_wrap table tbody #today,
+.calendar_wrap table tbody a:hover,
+.calendar_wrap table tbody a:focus {
+    color: var(--white);
+    background-color: var(--secondary-color);
+}
+
+.blog-sidebar .nt-search-field {
+    background: var(--white);
+}
+
+.tagcloud a {
+    background: rgba(255, 103, 82, 0.2);
+    color: var(--secondary-color);
+}
+
+.tagcloud a:hover {
+    background: rgba(27, 87, 91, 1);
+    color: var(--white);
+}
+
+.gallery-item .gallery-icon a:before {
+    color: var(--white);
+}
+
+.gallery-item .gallery-icon a:hover:before {
+    color: var(--secondary-color);
+}
+
+.post-content .side-tag {
+    background: rgba(255, 103, 82, 0.5);
+    color: var(--secondary-color);
+}
+
+.blog-sidebar .widget-latest-posts .post-image span {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.blog-sidebar .widget-latest-posts .post-image span:hover {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.widget_social_widget span {
+    color: var(--white);
+}
+
+.blog-sidebar .widget_nt_author_widget {
+    background: var(--primary-color);
+}
+
+.author-title {
+    color: var(--white);
+}
+
+.author-content p {
+    color: #fff;
+}
+
+.blog-sidebar .blog-author-social li a {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.blog-sidebar .blog-author-social li a:hover {
+    background: var(--secondary-color);
+}
+
+.blog-sidebar .widget-categories ul li a,
+.blog-sidebar .widget_archive li a,
+.blog-sidebar .widget_meta li a,
+.blog-sidebar .widget ul:not(.blog-author-social) li a {
+    color: var(--background);
+}
+
+.blog-sidebar .widget-categories ul li a:hover,
+.blog-sidebar .widget_archive li a:hover,
+.blog-sidebar .widget_meta li a:hover,
+.blog-sidebar .widget ul:not(.blog-author-social) li a:hover {
+    color: var(--white);
+    background: var(--primary-color);
+    border-color: var(--secondary-color);
+}
+
+.blog-sidebar .tagcloud a {
+    background: var(--white);
+    color: var(--background);
+}
+
+.blog-sidebar .tagcloud a:hover,
+.wp-block-tag-cloud a:hover {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.banner_content.bt h5 {
+    color: var(--white);
+}
+
+.blog-sidebar .widget_banner {
+    background: var(--primary-color);
+}
+
+.banner_content.bt .btn-hf {
+    background: var(--white);
+    color: var(--primary-color);
+}
+
+.banner-discount p {
+    color: var(--white);
+}
+
+.banner-discount p>span {
+    color: var(--secondary-color);
+}
+
+.widget div.calendar_wrap .wp-calendar-nav span.wp-calendar-nav-prev a {
+    color: var(--background);
+}
+
+.widget div.calendar_wrap .wp-calendar-nav span.wp-calendar-nav-prev a:hover {
+    color: var(--secondary-color);
+}
+
+/*course -sidebar	*/
+
+.course-review li>span>span:nth-child(2) {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.course-sidebar .course-about h2 {
+    color: var(--secondary-color);
+}
+
+.section-title h3>span:before,
+.theme-content h1>span:before {
+    background: var(--secondary-color2);
+}
+
+.course-sidebar .course-about ul a:hover i {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.course-offer {
+    background: var(--secondary-color2);
+    color: var(--background);
+}
+
+.course-about ul li .star-rating {
+    color: var(--secondary-color);
+}
+
+.course-sidebar .course-about ul span:not(.star-rating) {
+    background: rgba(27, 87, 91, 0.4);
+    color: var(--primary-color);
+}
+
+.course-review ul a i {
+    background: rgba(255, 103, 82, 0.4);
+    color: var(--secondary-color);
+}
+
+.meta.instructor .student {
+    color: var(--secondary-color);
+}
+
+/*pagination*/
+
+.pagination .nav-links .next,
+.pagination .nav-links .prev {
+    color: var(--secondary-color);
+}
+
+.pagination .nav-links a {
+    color: var(--background);
+}
+
+.pagination .nav-links a:hover,
+.pagination .nav-links span:hover {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.page-numbers.current {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+/*coming soon*/
+
+.coming-soon {
+    background: var(--primary-color);
+}
+
+.coming-soon .section-title h3 {
+    color: var(--white);
+}
+
+.eduvert_ct-timer>span {
+    background: var(--white);
+}
+
+.eduvert_ct-timer>span:before {
+    background: var(--secondary-color);
+}
+
+.eduvert_ct-timer>span>span:nth-child(2),
+.eduvert_ct-timer>span>span:nth-child(1) {
+    color: var(--background);
+}
+
+.eduvert_ct-timer>span:hover>span:nth-child(2),
+.eduvert_ct-timer>span:hover>span:nth-child(1) {
+    color: var(--white);
+}
+
+.coming-soon-wrapper p {
+    color: var(--white);
+}
+
+.subscribe-form-soon button[type='submit'] {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+/*cart-page*/
+
+.woocommerce-cart-form .table th {
+    color: var(--background);
+}
+
+.product-remove .remove {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.woocommerce-cart-form__contents td {
+    background: var(--white);
+}
+
+.cart_totals table th {
+    color: var(--background);
+}
+
+.product-name a,
+.product-price .woocommerce-Price-amount,
+.product-subtotal .woocommerce-Price-amount {
+    color: var(--background);
+}
+
+.product-name a:hover {
+    color: var(--background);
+}
+
+.coupon button[type='submit'] {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.checkout-button {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.checkout-button:hover {
+    color: var(--white);
+}
+
+.woocommerce-info a {
+    color: var(--secondary-color);
+}
+
+/*footer*/
+
+.section-footer {
+    background: var(--primary-color);
+}
+
+.section-footer .widget-content p {
+    color: #cdcdcd;
+}
+
+.section-footer .contact-area .contact-icon {
+    color: var(--secondary-color);
+}
+
+.section-footer .contact-area .contact-info .title {
+    color: var(--white);
+}
+
+.section-footer .contact-area .contact-info .title:hover {
+    color: var(--secondary-color);
+}
+
+.section-footer .contact-area .contact-info .sub-title {
+    color: #cdcdcd;
+}
+
+.section-footer .widget-social-widget .widget-title {
+    color: var(--white);
+}
+
+.section-footer .btn-footer {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.section-footer .widget-subscribe .widget-title {
+    color: var(--white);
+}
+
+.section-footer .nt-mail-form .nt-submit {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.section-footer .subscribe-in p {
+    color: #cdcdcd;
+}
+
+.section-footer .widget .widget-title {
+    color: var(--white);
+}
+
+.section-footer .widget-links ul li a,
+.section-footer .widget-categories li a,
+footer .widget ul li a {
+    color: #cdcdcd;
+}
+
+.section-footer .widget-links ul li a:hover,
+.section-footer .widget-categories li a:hover,
+.section-footer .widget-links ul li a:focus,
+.section-footer .widget-categories li a:focus,
+footer .widget ul li a:hover,
+footer .widget ul li a:focus {
+    color: var(--secondary-color);
+}
+
+.footer-copyright .copyright-text {
+    color: #cdcdcd;
+}
+
+.footer-copyright .widget-nav-menu .menu-pages-container ul li a {
+    color: #cdcdcd
+}
+
+.footer-copyright .widget-nav-menu .menu-pages-container ul li a:hover,
+.footer-copyright .widget-nav-menu .menu-pages-container ul li a:focus {
+    color: var(--secondary-color);
+}
+
+.footer-copyright {
+    background: var(--primary-color);
+}
+
+.scetion-footer2 .widget-content p,
+.scetion-footer2 .contact-info,
+.scetion-footer2 .widget-title,
+.scetion-footer2 .widget-subscribe h5 {
+    color: var(--white);
+}
+
+.scetion-footer2 .contact-info:hover,
+.scetion-footer2 .contact-info:focus {
+    color: var(--primary2);
+}
+
+.scetion-footer2 .contact-icon {
+    color: var(--primary2);
+}
+
+#footer_one .copyright-text a {
+    color: var(--secondary-color);
+}
+
+.section-footer .widget-search .nt-search-form .nt-search-submit {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.section-footer .widget_archive li a,
+.section-footer .widget_meta li a {
+    color: var(--background);
+}
+
+.section-footer .widget_archive li a:hover,
+.section-footer .widget_meta li a:hover {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.section-footer .post-title a {
+    color: var(--white);
+}
+
+.section-footer .post-title a:hover {
+    color: var(--secondary-color);
+}
+
+.section-footer .post-meta .posted-on {
+    color: #cdcdcd;
+}
+
+.section-footer .widget-tag-cloud a {
+    background: var(--white);
+    color: var(--secondary-color);
+}
+
+.section-footer .widget-tag-cloud a:hover {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.copyright-text a,
+.copyright-text a:hover {
+    color: var(--primary2);
+}
+
+.scetion-footer2 .contact-info:hover {
+    color: var(--primary2);
+}
+
+.scetion-footer2 .widget-links ul li a {
+    color: var(--white);
+}
+
+.scetion-footer2 .widget-links ul li a:hover {
+    color: var(--primary2);
+}
+
+.scetion-footer2 .nt-mail-form .nt-submit {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.scetion-footer2 .subscribe-in {
+    color: var(--white);
+}
+
+.scetion-footer2 .widget-social-widget ul li a {
+    background: var(--white);
+    color: var(--primary2);
+}
+
+.scetion-footer2 .widget-social-widget ul li a:hover,
+.scetion-footer2 .widget-social-widget ul li a:focus {
+    background: var(--primary2);
+    color: var(--white);
+}
+
+.scetion-footer2 .footer-copyright {
+    background: var(--secondary-color2);
+}
+
+.scetion-footer2 .footer-copyright .copyright-text {
+    color: var(--background);
+}
+
+#footer3 .footer-copyright {
+    background: #1b2741;
+}
+
+#footer3 .footer-copyright .copyright-text {
+    color: var(--white);
+}
+
+/*scroller*/
+
+#scrollup {
+    background: var(--secondary-color);
+    color: var(--white);
+}
+
+.scroll-btn #scrollup {
+    background: var(--primary2);
+    color: var(--white);
+    border-radius: 5px;
+}
